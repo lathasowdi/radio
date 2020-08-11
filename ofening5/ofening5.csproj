@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{58EF8E47-CFF5-4D8A-8F9B-035EDA1E12E8}</ProjectGuid>
+    <ProjectGuid>{09C1ECF6-19FD-489D-B8BB-292C8339FBB1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>oefening3</RootNamespace>
-    <AssemblyName>oefening3</AssemblyName>
+    <RootNamespace>ofening5</RootNamespace>
+    <AssemblyName>ofening5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

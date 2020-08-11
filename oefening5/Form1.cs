@@ -8,19 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace oefening3
+namespace oefening5
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void b1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show(dtp.Value.ToShortDateString());
-            MessageBox.Show(dtp.Value.ToString("d"));
         }
     }
 }
