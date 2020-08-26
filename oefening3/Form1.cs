@@ -22,5 +22,10 @@ namespace oefening3
             MessageBox.Show(dtp.Value.ToShortDateString());
             MessageBox.Show(dtp.Value.ToString("d"));
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

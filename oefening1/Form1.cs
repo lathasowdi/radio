@@ -56,7 +56,10 @@ namespace oefening1
             changelist(inactief, actief);
         }
 
-        
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

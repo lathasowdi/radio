@@ -51,6 +51,7 @@
             // 
             // lb2
             // 
+            this.lb2.Enabled = false;
             this.lb2.FormattingEnabled = true;
             this.lb2.Location = new System.Drawing.Point(320, 80);
             this.lb2.Name = "lb2";
@@ -148,6 +149,7 @@
             this.Controls.Add(this.lb1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
